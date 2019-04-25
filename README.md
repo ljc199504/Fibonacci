@@ -1,3 +1,3 @@
 # Fibonacci
-Code Python
-    result as follows:
+        Code Python
+        result as follows:
