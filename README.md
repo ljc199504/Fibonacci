@@ -1,2 +1,2 @@
 # Fibonacci
-Code Python<br>result as follows:
+Code Python<br>platform pycharm<br>run and then you can get the result
